@@ -1,5 +1,7 @@
 # php-segfault-mwe
 
+https://bugs.php.net/bug.php?id=75899
+
 ## Platform
 ```
 $ lsb_release -a               
